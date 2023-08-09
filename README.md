@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sreejith U</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejithdev2002&label=Profile%20views&color=0e75b6&style=flat" alt="sreejithdev2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreejithdev2002" alt="sreejithdev2002" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sreejithdev2002" target="blank"><img src="https://img.shields.io/twitter/follow/sreejithdev2002?logo=twitter&style=for-the-badge" alt="sreejithdev2002" /></a> </p>
+- 🔭 I’m currently a **Student**
 
 - 🌱 I’m currently learning **React JS**
 
-- 📫 How to reach me **sreejithdev2002@gmail.com**
+- 👯 I’m looking for work as a **Full-Stack Developer**
+
+- 📫 Contact me : **sreejithdev2002@gmail.com**
+
+- ⚡ Fun fact is that  **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
