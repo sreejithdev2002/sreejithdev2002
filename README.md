@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Student.<br>👯 I’m looking for a job as Jr Full Stack Developer.<br>🤝 I’m looking for help with learning MERN Stack.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about React , JavaScript, etc...<br>📫 Contact Me :- sreejithdev2002@gmail.com<br>⚡ Fun fact is that I think i am funny.
+🔭 I’m currently a MERN Stack Developer Intern.<br>👯 I’m looking for a job as Jr Full Stack Developer.<br>🤝 I’m looking for help with learning MERN Stack.<br>💬 Ask me about React , JavaScript, etc...<br>📫 Contact Me :- sreejithdev2002@gmail.com<br>⚡ Fun fact is that I think i am funny.
 
 
 ## 🌐 Socials:
